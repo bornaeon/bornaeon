@@ -1,4 +1,4 @@
-> howdy... this is **Borna**, a former _Frontender_, a current _Engineering Manager_ by day and a [Rust](https://www.rust-lang.org/)\_ learner by night!
+> howdy... this is **Borna**, a former _Frontender_, a current _Engineering Manager_ by day and a _Cloud_ / _Rust_ enthusiast by night.
 
 #### Get in touch
 
