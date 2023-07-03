@@ -11,4 +11,4 @@
 
 #### Talks
 
-`[TBD]`
+- [tech-source.io | S2 | Episode #10 - "The Importance of Guilds and Career Growth"](https://www.tech-source.io/podcastposts/bourna-pourhossein)
