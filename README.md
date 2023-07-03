@@ -1,4 +1,4 @@
-I am **Borna**, a former _Frontend developer_, a current _Engineering Manager_ by day and a _Cloud_ / _Rust_ enthusiast by night.
+I am **Borna**, a former _Front-End Developer_, a current _Engineering Manager_ by day and a _Cloud_ / _Rust_ enthusiast by night.
 
 #### Get in touch
 
