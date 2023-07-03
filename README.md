@@ -1,4 +1,4 @@
-> howdy... this is **Borna**, a former _Frontender_, a current _Engineering Manager_ by day and a _Cloud_ / _Rust_ enthusiast by night.
+howdy... this is **Borna**, a former _Frontender_, a current _Engineering Manager_ by day and a _Cloud_ / _Rust_ enthusiast by night.
 
 #### Get in touch
 
@@ -11,4 +11,4 @@
 
 #### Talks
 
-- [tech-source.io | S2 | Episode #10 - "The Importance of Guilds and Career Growth"](https://www.tech-source.io/podcastposts/bourna-pourhossein)
+- [The Importance of Guilds and Career Growth - The Technology Leadership Podcast, S2 E10](https://www.tech-source.io/podcastposts/bourna-pourhossein)
